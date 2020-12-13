@@ -1,0 +1,4 @@
+docker pull hello-world
+
+#if you incounter permission problames
+#sudo chmod 666 /var/run/docker.sock 
